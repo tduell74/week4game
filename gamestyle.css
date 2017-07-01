@@ -1,0 +1,63 @@
+body {
+	background-image: url();
+}
+
+h1 {
+	background-color: darkcyan;
+	color: white;
+	display: inline;
+	clear: both;
+	padding: 10px;
+	margin-top: 10px;
+	border: dotted 2px black;
+}
+
+#wrapper {
+	width: 100;
+	max-width: 960px;
+	margin: 20 auto;
+}
+
+#instructions {
+	background-color: burlywood;
+	width: 50%;
+	clear: both;
+	padding: 15px;
+	margin-top: 20px;
+	border: 1px groove black;
+}
+
+#guessNumber {
+	background-color: cadetblue;
+	float: left;
+	display: inline-block;
+	padding: 0px 20px 5px 10px;
+	margin-top: 20px;
+	border: 1px groove black;
+}
+
+#scoreBoard {
+	background-color: crimson;
+	padding: 0px 10px 5px 10px;
+	display: inline-block;
+	margin-left: 80px;
+	margin-top: 20px;
+	border: 1px groove black;
+}
+
+.crystalImage {
+	background-color: blue;
+	margin: 50px 20px 30px 20px;
+}
+
+#totalScore {
+	margin-top: 100px;
+	margin-bottom: 100px
+}
+
+#YourScore {
+    background-color: darkkhaki;
+    display: inline;
+    padding: 20px;
+    border: 1px groove black;
+}
